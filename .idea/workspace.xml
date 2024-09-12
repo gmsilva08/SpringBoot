@@ -11,8 +11,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="AnnotationType" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -31,7 +31,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vendas2" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -44,7 +45,7 @@
   <component name="RunManager">
     <configuration name="VendasApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.github.gabrielsilva.VendasApplication" />
-      <module name="vendas" />
+      <module name="vendas2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.github.gabrielsilva.*" />
@@ -75,33 +76,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1725915702689">
+    <state x="400" y="19" key="#VendasApplication" timestamp="1726078553178">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="488" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1725915702689" />
-    <state x="463" y="115" key="FileChooserDialogImpl" timestamp="1726077851270">
+    <state x="400" y="19" key="#VendasApplication/0.0.1366.720@0.0.1366.720" timestamp="1726078553178" />
+    <state x="488" y="44" key="#com.intellij.ide.util.MemberChooser" timestamp="1726083077474">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="463" y="115" key="FileChooserDialogImpl/0.0.1366.720@0.0.1366.720" timestamp="1726077851270" />
-    <state width="1286" height="160" key="GridCell.Tab.0.bottom" timestamp="1725996261265">
+    <state x="488" y="44" key="#com.intellij.ide.util.MemberChooser/0.0.1366.720@0.0.1366.720" timestamp="1726083077474" />
+    <state x="412" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1726078550567">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="160" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1725996261265" />
-    <state width="1286" height="160" key="GridCell.Tab.0.center" timestamp="1725996261265">
+    <state x="412" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.720@0.0.1366.720" timestamp="1726078550567" />
+    <state x="479" y="219" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1726077875077">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="160" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1725996261265" />
-    <state width="1286" height="160" key="GridCell.Tab.0.left" timestamp="1725996261265">
+    <state x="479" y="219" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.720@0.0.1366.720" timestamp="1726077875077" />
+    <state x="413" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1726077892078">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="160" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1725996261265" />
-    <state width="1286" height="160" key="GridCell.Tab.0.right" timestamp="1725996261265">
+    <state x="413" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.720@0.0.1366.720" timestamp="1726077892078" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom" timestamp="1726096243472">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1286" height="160" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1725996261265" />
+    <state width="1323" height="131" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1726096243472" />
+    <state width="1323" height="131" key="GridCell.Tab.0.center" timestamp="1726096243472">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1726096243472" />
+    <state width="1323" height="131" key="GridCell.Tab.0.left" timestamp="1726096243472">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1726096243472" />
+    <state width="1323" height="131" key="GridCell.Tab.0.right" timestamp="1726096243472">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state width="1323" height="131" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1726096243472" />
     <state x="379" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1726077533192">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="379" y="184" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1726077533192" />
+    <state x="413" y="115" key="extract.method.dialog" timestamp="1726083989480">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="413" y="115" key="extract.method.dialog/0.0.1366.720@0.0.1366.720" timestamp="1726083989480" />
+    <state x="687" y="381" width="672" height="338" key="search.everywhere.popup" timestamp="1726079084907">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="687" y="381" width="672" height="338" key="search.everywhere.popup/0.0.1366.720@0.0.1366.720" timestamp="1726079084907" />
   </component>
 </project>
